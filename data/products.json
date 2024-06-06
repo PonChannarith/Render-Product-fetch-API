@@ -1,272 +1,242 @@
 [
   {
-    "_id": 641833244355,
-    "name": "ម៉ាកផ្សេងទៀត 1/6 ទាហាន 1/6 ទាហានសង្គ្រាមលោកលើកទី 2 ភាគខាងជើងសំណុំឯកសណ្ឋានអាល្លឺម៉ង់អាល្លឺម៉ង់ (ម៉ូដែលចាស់) ",
-    "price": {
-      "minPrice": 8.33,
-      "maxPrice": 8.33
-    },
-    "promoPrice": {
-      "minPrice": 8.33,
-      "maxPrice": 8.33
-    },
-    "stock": 0,
-    "sold": 0,
-    "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/50661735/TB2X0Lfl0BopuFjSZPcXXc9EpXa_!!50661735.jpg_180x180.jpg",
-    "merchant": "甜多丽娜",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=600570643319"
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+          "rate": 3.9,
+          "count": 120
+      }
   },
   {
-    "_id": 548133787625,
-    "name": " ការដកស្រង់ប្រដាល់ប្រទេស IQUOUT ទារកសង្សារពន្លឺរបស់ QQ xiuhong ទារកដែលមានមន្តស្នេហ៍និងភាពទាក់ទាញនៃរបាំឥន្ទធនូបន្ទាប់ពីមានភ្លៀង",
-    "price": {
-      "minPrice": 1.67,
-      "maxPrice": 1.67
-    },
-    "promoPrice": {
-      "minPrice": 1.67,
-      "maxPrice": 1.67
-    },
-    "stock": 0,
-    "sold": 0,
-    "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/66002986/TB2dxKqXoMgYeJjSZFGXXXsMXXa_!!66002986.png",
-    "merchant": "myqq6713100",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=641833244355"
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+          "rate": 4.1,
+          "count": 259
+      }
   },
   {
-    "_id": 43112131245,
-    "name": " សេវាកម្មជិះស្គីលើកុមារក្រៅរបស់កុមារគិតថ្លៃកប្បាសត្រជាក់ពោលគឺកប្បាសក្លែងក្លាយ - ម៉ាកធំ ៗ និងម៉ាកធំរបស់អាមេរិក 152/158/164 កន្លែងបញ្ជាទិញពាណិជ្ជកម្មក្រៅប្រទេស",
-    "price": {
-      "minPrice": 41.01,
-      "maxPrice": 41.01
-    },
-    "promoPrice": {
-      "minPrice": 41.01,
-      "maxPrice": 41.01
-    },
-    "stock": 0,
-    "sold": 0,
-    "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/TB1C5UzGVXXXXa7aXXXXXXXXXXX_!!0-item_pic.jpg_180x180.jpg",
-    "merchant": "北欧木屋",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=548133787625"
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+          "rate": 4.7,
+          "count": 500
+      }
   },
   {
-    "_id": 729073934983,
-    "name": " ការប្រមូលការបញ្ចុះតម្លៃ Emileetida23ss អាវខ្លីដែលមានឈ្មោះថាខ្លី - ខោខ្លី",
-    "price": {
-      "minPrice": 33.92,
-      "maxPrice": 33.92
-    },
-    "promoPrice": {
-      "minPrice": 67.85,
-      "maxPrice": 67.85
-    },
-    "stock": 2,
-    "sold": 2,
-    "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2200595182226/O1CN01aUIVeD1SJYZVWmqzl_!!2200595182226.jpg_180x180.jpg",
-    "merchant": "lenfance",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=43112131245"
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+          "rate": 2.1,
+          "count": 430
+      }
   },
   {
-    "_id": 607792424786,
-    "name": " ការនាំចេញពាណិជ្ជកម្មក្រៅប្រទេសតែមួយរបស់ J256 ដែលកំពុងដំណើរការកីឡាខោខូវប៊យ To Sharps T-Ship ធម្មតារបស់កុមារឆ្នាំ 2019 សម្លៀកបំពាក់របស់កុមាររដូវស្លឹកឈើជ្រុះ",
-    "price": {
-      "minPrice": 1.66,
-      "maxPrice": 1.66
-    },
-    "promoPrice": {
-      "minPrice": 1.66,
-      "maxPrice": 1.66
-    },
-    "stock": 0,
-    "sold": 0,
-    "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/174827494/O1CN01y0KETD25EIgqjSi4d_!!0-item_pic.jpg_180x180.jpg",
-    "merchant": "kkyqdd",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=729073934983"
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+          "rate": 4.6,
+          "count": 400
+      }
   },
   {
-    "_id": 682787418900,
-    "name": " 54! ទារកទារក Kongesslojd ទារករបស់កុមារដែលមានខោខោខោខ្លីជាយូរមកហើយ - ស្លៀកពាក់ខោអាវវែង",
-    "price": {
-      "minPrice": 15.75,
-      "maxPrice": 15.75
-    },
-    "promoPrice": {
-      "minPrice": 14.09,
-      "maxPrice": 14.09
-    },
-    "stock": 1,
-    "sold": 1,
-    "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/232055288/O1CN0109NUgR1ovxHvMHZkn_!!232055288.png",
-    "merchant": "mimimantou88",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=607792424786"
+      "id": 6,
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+          "rate": 3.9,
+          "count": 70
+      }
   },
   {
-    "_id": 771452461377,
-    "name": " គំនូរនិន្នាការច្នៃប្រឌិតរូបជីវសាស្រ្ត 50 t ដែលជាគំនូរទ្វារសិល្បៈអក្សរសាស្ត្រគំនូសតាងបុគ្គលិកលក្ខណៈ Pightreating Plick Holof Book Book Book Back Table Cup Tables Table Cup Table Bard Tablet Bairs Baster ",
-    "price": {
-      "minPrice": 1.33,
-      "maxPrice": 1.33
-    },
-    "promoPrice": {
-      "minPrice": 1.33,
-      "maxPrice": 1.33
-    },
-    "stock": 0,
-    "sold": 0,
-    "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2216562047183/O1CN01rQPAcY22vrrvoLzs0_!!0-item_pic.jpg_180x180.jpg",
-    "merchant": "万适旗舰店",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=682787418900"
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+          "rate": 3,
+          "count": 400
+      }
   },
   {
-    "_id": 37136311487,
-    "name": " អាវធំជិះស្គីរបស់កុមារបានប្តឹងការនាំចេញពាណិជ្ជកម្មក្រៅប្រទេសដែលមានតែមួយទោល - ទោលនៅលីវតែមួយ - កីឡាក្រៅកីឡាធំ 140 យ៉ាត",
-    "price": {
-      "minPrice": 66.35,
-      "maxPrice": 66.35
-    },
-    "promoPrice": {
-      "minPrice": 66.35,
-      "maxPrice": 66.35
-    },
-    "stock": 0,
-    "sold": 0,
-    "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/T1e64MFCFkXXXXXXXX_!!0-item_pic.jpg_180x180.jpg",
-    "merchant": "北欧木屋",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=771452461377"
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+          "rate": 1.9,
+          "count": 100
+      }
   },
   {
-    "_id": 654317404815,
-    "name": " ឈុតយូហ្គាកីឡាអ៊ឺរ៉ុបនិងអាមេរិចនៃរដូវស្លឹកឈើជ្រុះនិងរដូវរងារកំពុងដំណើរការសម្បទាវិជ្ជាជីវៈយ៉ាងឆាប់រហ័សដែលគ្មានថ្នេរដែលគ្មានថ្នេរនិងស្តើងពីរបំណែក",
-    "price": {
-      "minPrice": 10.67,
-      "maxPrice": 10.67
-    },
-    "promoPrice": {
-      "minPrice": 11.17,
-      "maxPrice": 11.17
-    },
-    "stock": 32,
-    "sold": 32,
-    "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/136307796/O1CN01CjVCm927ScQmtWQLa_!!136307796.jpg_180x180.jpg",
-    "merchant": "夜静听雨2008",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=37136311487"
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+          "rate": 3.3,
+          "count": 203
+      }
   },
   {
-    "_id": 669266735909,
-    "name": " នៅឆ្នាំ 2022 កប្បាសថ្មីនិទាឃរដូវនិងរដូវក្តៅមានផាសុកភាពក្មេងស្រីខ្លី -Sleeved ពីរនាក់ដែលគ្របដណ្តប់ការត្រាប៉ាក់ដែលមានរូបតុក្កតាទន្សាយ",
-    "price": {
-      "minPrice": 5.67,
-      "maxPrice": 5.67
-    },
-    "promoPrice": {
-      "minPrice": 5.67,
-      "maxPrice": 5.67
-    },
-    "stock": 15,
-    "sold": 15,
-    "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/132165288/O1CN01J7MEgv1ovx8QQi2EF_!!132165288.jpg_180x180.jpg",
-    "merchant": "happy_lorna",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=654317404815"
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+          "rate": 2.9,
+          "count": 470
+      }
   },
   {
-    "_id": 707830740311,
-    "name": " ក្មេងស្រីដែលគ្របដណ្តប់លើកុមារទារកបរិភោគទារកទារកទារកទារកអង្ករការពារសំពត់ការពារសំពត់ទារកមត្តេយ្យប្រឆាំងនឹងកុមារ",
-    "price": {
-      "minPrice": 2.3,
-      "maxPrice": 2.3
-    },
-    "promoPrice": {
-      "minPrice": 2.8,
-      "maxPrice": 2.8
-    },
-    "stock": 800,
-    "sold": 800,
-    "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2201491109567/O1CN01s0Vx0u2KXjyuXSJam_!!0-item_pic.jpg_180x180.jpg",
-    "merchant": "曦童旗舰店",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=669266735909"
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+          "rate": 4.8,
+          "count": 319
+      }
   },
   {
-    "_id": 743562868938,
-    "name": " ការរស់ឡើងវិញរបស់ Resumehome បន្តដំណើរនៅលើរដូវរងារផ្ទះថ្មីនៅរដូវរងារធម្មតាបូកវ៉េលវែតឈុតកីឡារបស់កុមារកក់ក្តៅ",
-    "price": {
-      "minPrice": 25.51,
-      "maxPrice": 25.51
-    },
-    "promoPrice": {
-      "minPrice": 26.34,
-      "maxPrice": 26.34
-    },
-    "stock": 1,
-    "sold": 1,
-    "mainImage": "https://tbimg.zzqss.com/imgextra/i2/43531578/O1CN01p8t7CP1NWlsuj2un3_!!0-saturn_solar.jpg_180x180.jpg?x-oss-process=style/tbsy",
-    "merchant": "小鸡崽童装",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=707830740311"
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+          "rate": 4.8,
+          "count": 400
+      }
   },
   {
-    "_id": 730475929649,
-    "name": " ការប្រមូលការប្រមូលការបញ្ចុះតម្លៃការបញ្ចុះតម្លៃរបស់អង្គការ org អង្គភាព organ organ organाகाssខ្លីខោខោខោទ្រនាប់ខ្លីៗ",
-    "price": {
-      "minPrice": 22.42,
-      "maxPrice": 22.42
-    },
-    "promoPrice": {
-      "minPrice": 44.84,
-      "maxPrice": 44.84
-    },
-    "stock": 2,
-    "sold": 2,
-    "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2200595182226/O1CN01uiYqvD1SJYYWK105H_!!0-item_pic.jpg_180x180.jpg",
-    "merchant": "lenfance",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=743562868938"
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+          "rate": 2.9,
+          "count": 250
+      }
   },
   {
-    "_id": 759437879738,
-    "name": " ប្រព័ន្ធបៃតង 401-499 រ៉ូបរដូវស្លឹកឈើជ្រុះនិងរដូវរងារសំលៀកបំពាក់ម៉ូតពីរដុំថ្មីរបស់ស្ត្រីកំពូល 1116 ",
-    "price": {
-      "minPrice": 5,
-      "maxPrice": 5
-    },
-    "promoPrice": {
-      "minPrice": 6.65,
-      "maxPrice": 6.65
-    },
-    "stock": 1000,
-    "sold": 1000,
-    "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2154432336/O1CN016VxOeb1T7w7giEF14_!!2154432336.jpg_180x180.jpg",
-    "merchant": "雨雨衣品",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=730475929649"
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+          "rate": 2.2,
+          "count": 140
+      }
   },
   {
-    "_id": 741686009149,
-    "name": " កន្សែងដៃសត្វចិញ្ចឹមសំបុកសំបុកសត្វឆ្មាសំបុកសំបុកសត្វពាហនៈវីល្លែតវ៉ាលថលថលភួយពណ៌ភួយពណ៌ផ្កាបោសសំអាតចៃដន្យ",
-    "price": {
-      "minPrice": 1.13,
-      "maxPrice": 1.13
-    },
-    "promoPrice": {
-      "minPrice": 1.13,
-      "maxPrice": 1.13
-    },
-    "stock": 3,
-    "sold": 3,
-    "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/56603795/O1CN01JiSVeD1du9xDuDErl_!!56603795.jpg_180x180.jpg",
-    "merchant": "小犬当家",
-    "provider": "taobao",
-    "url": "http://detail.tmall.com/item.htm?id=759437879738"
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+          "rate": 2.6,
+          "count": 235
+      }
+  },
+  {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+          "rate": 2.9,
+          "count": 340
+      }
+  },
+  {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+          "rate": 3.8,
+          "count": 679
+      }
+  },
+  {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+          "rate": 4.7,
+          "count": 130
+      }
+  },
+  {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+          "rate": 4.5,
+          "count": 146
+      }
+  },
+  {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+          "rate": 3.6,
+          "count": 145
+      }
   }
 ]
